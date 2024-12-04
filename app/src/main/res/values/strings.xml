@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoTest</string>
+    <string name="open_gallery">Ouvrir la galerie</string>
+    <string name="your_picture_will_be_shown_here">Votre photo s\'affichera ici</string>
+</resources>
